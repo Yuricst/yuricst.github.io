@@ -11,38 +11,51 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
+* Ph.D in Aerospace Engineering, Georgia Institute of Technology, 2021 - (present)
+* Year Abroad in Aerospace Engineering, University of California - Los Angeles, 2018 - 2019
+* MEng in Aeronautical Engineering, Imperial College London, 2016 - 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Spacecraft GNC Intern, [Mitsubishi Electric Research Laboratories](https://www.merl.com/), 2023/05 - 2023/08
+  * Developed GNC stack for autonomous navigation and control in cislunar space
+  * Developed synthetic imaging tool for horion-based optical navigation
+
+* Mission Analysis Intern, [ispace, inc.](https://ispace-inc.com/), 2020/05 - 2020/12
+  * Led preliminary design and characterization of low-energy transfers to the Moon in three- and four-body models
+  * Conducted review activities for critical design review (CDR) of mission analysis team
+
+* Mission Analysis Intern, [ispace, inc.](https://ispace-inc.com/), 2019/08 - 2019/09
+  * Developed Python interface between JPL’s astrodynamics library MONTE and visualization Cosmographia
+
+Projects
+======
+* [Glocal Trajectory Optimisation Competition (GTOC) 12](https://gtoc12.tsinghua.edu.cn/competition/teamInfo), 2023/07
+  * Participated as part of Team 6. ESA ACT & Friends, 4th place overall
+
+* [Caltech Space Challenge](https://www.spacechallenge.caltech.edu/description), 2022/03
+  * One-week competition to design a sample return mission to Titan
+  * Conducted Mission analysis and trajectory design in both interplanetary and Saturnian systems
+
+* [Glocal Trajectory Optimisation Competition (GTOC) 11](https://gtoc11.nudt.edu.cn/GTOC?page=home), 2021/11
+  * Participated as part of Team 6. ESA ACT & Friends, 2nd place overall
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming (C/C++, Python, Julia, MATLAB, Fortran, JavaScript)
+* LaTeX
+* GMAT
+* SPICE Toplkit
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+Please see [here](/publications/)
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +69,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
