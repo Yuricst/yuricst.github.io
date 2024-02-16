@@ -1,0 +1,39 @@
+---
+title: "Facility Location Problem for Space-Based Assets"
+excerpt: "Facility Location Problem for Space-Based Assets"
+image: 
+  url: '../images/flp_allocation_D1m2000.png'
+  width: '291'
+  height: '392'
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
+collection: project
+---
+
+## 1. Review of Facility Location Problem
+
+The facility location problem 
+
+The placement of facilities is a fundamental problem in terrestrial logistics. The facility location problem (FLP) is a classical problem in operations research, for which various formulations and extensions have been proposed. 
+The FLP has seen a wide range of applications, including emergency services, telecommunications, healthcare, waste disposal management, and disaster response. 
+
+
+## 2. Applications to space problems
+
+The problem of designing and deploying large-scale space-based architectures may be posed as an FLP. In doing so, considerations specific to space must be taken into account to successfully adapt to the application in question. 
+
+
+### Related publication:
+
+- Y. Shimane, N. Gollins, and K. Ho, “**Orbital Facility Location Problem for Satellite Constellation Servicing Depots**,” arXiv, 2023, [Online]. Available: [http://arxiv.org/abs/2302.12191](http://arxiv.org/abs/2302.12191).
+
+- Y. Shimane, A. Shirane, and K. Ho, “**Lunar Communication Relay Architecture Design via Multiperiod Facility Location Problem**,” 2023.
+
+- Y. Shimane, K. Tomita, and K. Ho, “**Strategic Regions for Monitoring Incoming Low-Energy Transfers to Low-Lunar Orbits Yuri Shimane , Kento Tomita , and Koki Ho Georgia Institute of Technology**,” 2023.
+
+
+### References
+
+
