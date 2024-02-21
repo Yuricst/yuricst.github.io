@@ -7,14 +7,6 @@ excerpt: "List of research projects"
 intro: 
   - excerpt: ''
 feature_row:
-
-  - image_path: '../images/cflp_pmedian_sda.gif'
-    alt: "pmediansda"
-    title: "Facility Location Problem for Cislunar Space Domain Awareness"
-    excerpt: '**Abstract:** Facility Location Problem for Space-Based Assets. '
-    
-    SUMMARY TEXT HERE
-
   - image_path: '../images/flp_allocation_D1m2000.png'
     alt: "osamdepotoflp"
     title: "Facility Location Problem for On-Orbit Servicing Depot"
@@ -25,7 +17,7 @@ feature_row:
     
   - image_path: '../images/galt_manifold.png'
     alt: "galt"
-    title: "GALT-Assist Low-Thrust Trajectory Design"
+    title: "Gravity-Assist Low-Thrust Trajectory Design"
     excerpt: '**Abstract:** Exploration of low-thrust trajectory design via direct-transcription.'
     url: /research/galt/
     btn_label: "Read More"
