@@ -7,6 +7,11 @@ excerpt: "List of research projects"
 intro: 
   - excerpt: ''
 feature_row:
+  - image_path: '../images/cflp_pmedian_sda.gif'
+    alt: "pmediansda"
+    title: "Facility Location Problem for Cislunar Space Domain Awareness"
+    excerpt: '**Abstract:** Facility Location Problem for Space-Based Assets. '
+
   - image_path: '../images/flp_allocation_D1m2000.png'
     alt: "osamdepotoflp"
     title: "Facility Location Problem for On-Orbit Servicing Depot"
