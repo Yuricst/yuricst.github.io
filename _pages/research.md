@@ -59,7 +59,7 @@ feature_row_astrodynamics:
 
 {% include feature_row id="intro" type="center" %}
 
-## Facility Location Problems
+## In-Space Asset Design and Optimization
 
 {% include feature_row id="feature_row_flp" type="left" %}
 
