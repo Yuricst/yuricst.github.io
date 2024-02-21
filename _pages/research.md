@@ -7,6 +7,13 @@ excerpt: "List of research projects"
 intro: 
   - excerpt: ''
 feature_row:
+  - image_path: '../images/cflp_pmedian_sda.gif'
+    alt: "p-Median SDA"
+    title: "Facility Location Problem for Cislunar Space Domain Awareness"
+    excerpt: '**Abstract:** Facility Location Problem for Space-Based Assets. '
+
+    SUMMARY TEXT HERE
+    
   - image_path: '../images/flp_allocation_D1m2000.png'
     alt: "Skyplot"
     title: "Facility Location Problem for Space-Based Assets"
@@ -25,5 +32,8 @@ feature_row:
 ---
 
 {% include feature_row id="intro" type="center" %}
+
+
+# 1. Facility Location Problems
 
 {% include feature_row id="feature_row" type="left" %}
