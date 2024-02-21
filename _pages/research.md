@@ -12,6 +12,9 @@ feature_row_flp:
     alt: "p-Median SDA"
     title: "Facility Location Problem for Cislunar Space Domain Awareness"
     excerpt: '**Abstract:** Facility Location Problem for Space-Based Assets. '
+    url: /research/flp_osam/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
     
     SUMMARY TEXT HERE
 
