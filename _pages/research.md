@@ -22,7 +22,8 @@ feature_row:
     url: /research/flp_osam/
     btn_label: "Read More"
     btn_class: "btn--primary"
-    
+
+feature_row_astrodynamics:
   - image_path: '../images/galt_manifold.png'
     alt: "galt"
     title: "Gravity-Assist Low-Thrust Trajectory Design"
@@ -39,3 +40,5 @@ feature_row:
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row" type="left" %}
+
+{% include feature_row id="feature_row_astrodynamics" type="left" %}
