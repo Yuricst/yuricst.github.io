@@ -41,7 +41,7 @@ I am quite omnivorous about music, and depending on my mood will listen to anyth
   * Conducted review activities for critical design review (CDR) of mission analysis team
 
 * Mission Analysis Intern, [ispace, inc.](https://ispace-inc.com/), 2019/08 - 2019/09
-  * Developed Python interface between JPL’s astrodynamics library MONTE and visualization Cosmographia
+  * Developed Python interface between JPL’s astrodynamics library MONTE and visualization software Cosmographia
 
 ## Publications
 
