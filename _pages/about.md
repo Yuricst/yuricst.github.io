@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Yuri Shimane"
-excerpt: "PhD student"
+excerpt: "PhD student, Georgia Tech"
 author_profile: true
 header:
   overlay_color: "#000"
