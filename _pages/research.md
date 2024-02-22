@@ -40,7 +40,7 @@ feature_row_gnc:
     alt: "opnavnrho"
     title: "Autonomous Optical Navigation on Near-Rectilinear Halo Orbit"
     excerpt: '
-        **With:** Mitsubishi Electric Research Laboratories (MERL)
+        **With:** Mitsubishi Electric Research Laboratories
         <br><br>
         Autonomous navigation capability in cislunar space is critical for the safe operation of both uncrewed and crewed spacecraft. This project explores the use of horizon-based optical navigation to autonomously navigate and conduct station-keeping for a spacecraft on the 9:2 Near-Rectilinear Halo Orbit (NRHO) in the full-ephemeris model. 
         <br><br>
@@ -81,18 +81,22 @@ feature_row_astrodynamics:
         <br><br>
         **Related publication:** M. Märtens, D. Izzo, E. Blazquez, M. von Looz, P. Gomez, A. Mergy, G. Accdiarini, C.H. Yam, J. Hernando-Ayuso, Y. Shimane, “The fellowship of the Dyson ring: ACT&Friends’ results and methods for GTOC 11,” Acta Astronaut., no. February, 2022. [https://doi.org/10.1016/j.actaastro.2022.06.025](https://doi.org/10.1016/j.actaastro.2022.06.025)
     '
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+toc_sticky: true
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-# In-Space Asset Design and Optimization
+# 1. In-Space Asset Design and Optimization
 
 {% include feature_row id="feature_row_flp" %}
 
-# Guidance, Navigation, and Control (GNC)
+# 2. Guidance, Navigation, and Control (GNC)
 
 {% include feature_row id="feature_row_gnc" %}
 
-# Astrodynamics and Trajectory Design
+# 3. Astrodynamics and Trajectory Design
 
 {% include feature_row id="feature_row_astrodynamics" %}
