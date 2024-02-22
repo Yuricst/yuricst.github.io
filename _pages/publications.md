@@ -5,7 +5,7 @@ permalink: /publications/
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: '../images/banner/setouchi2'
+  overlay_image: '../images/banner/setouchi2.JPG'
   caption: "(c) Yuri Shimane / Setouchi, Japan"
 author_profile: true
 ---
