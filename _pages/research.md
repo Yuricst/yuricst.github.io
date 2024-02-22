@@ -51,7 +51,7 @@ feature_row_gnc:
 feature_row_astrodynamics:
   - image_path: '../images/gtoc12_density.png'
     alt: "galt"
-    title: "12th Global Trajectory Optimisation Competition (GTOC)"
+    title: "12th Global Trajectory Optimisation Competition"
     excerpt: '
         **With:** ESA ACT&Friends
         <br><br>
@@ -74,7 +74,7 @@ feature_row_astrodynamics:
 
   - image_path: '../images/gtoc11_mothers_overview.png'
     alt: "galt"
-    title: "11th Global Trajectory Optimisation Competition (GTOC)"
+    title: "11th Global Trajectory Optimisation Competition"
     excerpt: '
         **With:** ESA ACT&Friends
         <br><br>
