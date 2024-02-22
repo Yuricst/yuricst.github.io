@@ -1,12 +1,12 @@
 ---
 layout: archive
 permalink: /cv/
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
   overlay_image: '../images/banner/setouchi4.JPG'
   caption: "(c) Yuri Shimane / Setouchi, Japan"
-author_profile: true
 redirect_from:
   - /resume
 ---
