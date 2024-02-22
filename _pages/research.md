@@ -8,7 +8,6 @@ header:
   overlay_filter: "0.0"
   overlay_image: '../images/banner/setouchi1.JPG'
   caption: "(c) Yuri Shimane / Setouchi, Japan"
-excerpt: "List of research projects"
 intro: 
   - excerpt: ''
 feature_row_flp:
