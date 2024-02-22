@@ -3,6 +3,11 @@ layout: splash
 title: "Research Projects"
 permalink: /research/
 author_profile: true
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: '../images/banner/IMG_6974.jpg'
+  caption: "(c) Yuri Shimane / Shimonada, Japan"
 excerpt: "List of research projects"
 intro: 
   - excerpt: ''
