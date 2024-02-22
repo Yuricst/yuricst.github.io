@@ -88,12 +88,12 @@ feature_row_astrodynamics:
 
 # In-Space Asset Design and Optimization
 
-{% include feature_row id="feature_row_flp" type="left" %}
+{% include feature_row id="feature_row_flp" %}
 
 # Guidance, Navigation, and Control (GNC)
 
-{% include feature_row id="feature_row_gnc" type="left" %}
+{% include feature_row id="feature_row_gnc" %}
 
 # Astrodynamics and Trajectory Design
 
-{% include feature_row id="feature_row_astrodynamics" type="left" %}
+{% include feature_row id="feature_row_astrodynamics" %}
