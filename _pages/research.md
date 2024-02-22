@@ -6,8 +6,8 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.0"
-  overlay_image: '../images/banner/IMG_6974.jpg'
-  caption: "(c) Yuri Shimane / Shimonada, Japan"
+  overlay_image: '../images/banner/setouchi1'
+  caption: "(c) Yuri Shimane / Setouchi, Japan"
 excerpt: "List of research projects"
 intro: 
   - excerpt: ''

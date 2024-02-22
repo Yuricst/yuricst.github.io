@@ -1,7 +1,12 @@
 ---
 permalink: /
 title: "Yuri Shimane"
-excerpt: "About me"
+excerpt: "PhD student"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.0"
+  overlay_image: '../images/banner/setouchi3'
+  caption: "(c) Yuri Shimane / Setouchi, Japan"
 author_profile: true
 redirect_from: 
   - /about/
