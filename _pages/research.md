@@ -66,7 +66,7 @@ feature_row_astrodynamics:
     excerpt: '
         The combined use of gravity assist, low-thrust propulsion, and manifold capture for interplanetary transfers is studied. This work makes use of the Sims-Flanagan transcription, incorporating parametrization of arrival to a manifold Poincaré section instead of a celestial body. 
         <br><br>
-        **Related publication:** Shimane, Y., & Ho, K. (2022). Gravity‑Assist Low‑Thrust Inter‑System Trajectory Design with Manifold Captures. The Journal of the Astronautical Sciences. [https://doi.org/10.1007/s40295-022-00319-x](https://doi.org/10.1007/s40295-022-00319-x)
+        **Related publication:** Y. Shimane and K. Ho, “Gravity‑Assist Low‑Thrust Inter‑System Trajectory Design with Manifold Captures,” J. Astronaut. Sci., 2022. [https://doi.org/10.1007/s40295-022-00319-x](https://doi.org/10.1007/s40295-022-00319-x)
     '
     url: /research/galt/
     btn_label: "Read More"
