@@ -29,7 +29,7 @@ In the past, I have worked on the design of low-energy transfers to low-lunar or
 
 ## Work experience
 
-* Spacecraft GNC Intern, [Mitsubishi Electric Research Laboratories](https://www.merl.com/), 2023/05 - 2023/08 | 2024/01 - 2024/05
+* Spacecraft GNC Intern, [Mitsubishi Electric Research Laboratories](https://www.merl.com/), 2023/05 - 2023/08, 2024/01 - 2024/05
   * Developed GNC stack for autonomous navigation and control in cislunar space
   * Developed synthetic imaging tool for horion-based optical navigation
 
