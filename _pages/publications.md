@@ -16,7 +16,7 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 ## Journal Publications
 
-- **Y. Shimane**, N. Gollins, and K. Ho, “Orbital facility location problem for satellite constellation servicing depots,” J. Spacecr. Rockets, Accepted, 2024.
+- **Y. Shimane**, N. Gollins, and K. Ho, “Orbital facility location problem for satellite constellation servicing depots,” J. Spacecr. Rockets, Accepted, 2024. [https://arc.aiaa.org/doi/10.2514/6.2024-1585](https://arc.aiaa.org/doi/10.2514/6.2024-1585)
 
 - L. Visonneau, **Y. Shimane**, and K. Ho, "Optimizing Multi-Spacecraft Cislunar Space Domain Awareness Systems via Hidden-Genes Genetic Algorithm".  J. Astronaut. Sci., 2023. [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8)
 
