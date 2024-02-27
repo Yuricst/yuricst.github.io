@@ -32,6 +32,8 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 ## Conference Proceedings
 
+- M. L. Gilmartin et al., “Optimization of Lunar-Based Radar Networks Via a Multi-Disciplinary Analysis and Optimization (MDAO) Approach,” in AIAA SCITECH 2024 Forum, Reston, Virginia: American Institute of Aeronautics and Astronautics, Jan. 2024. doi: 10.2514/6.2024-1063.[https://arc.aiaa.org/doi/10.2514/6.2024-1063](https://arc.aiaa.org/doi/10.2514/6.2024-1063)
+  
 - **Y. Shimane**, P. Miraldo, K. Berntorp, M. Greiff, P. Elango, and A. Weiss, “High-Fidelity Simulation of Horizon-Based Optical Navigation with Open-Source Software,” in 74th International Astronautical Congress, 2023. Available: [https://www.merl.com/publications/docs/TR2023-128.pdf](https://www.merl.com/publications/docs/TR2023-128.pdf).
 
 - **Y. Shimane**, A. Shirane, and K. Ho, “Lunar Communication Relay Architecture Design via Multiperiod Facility Location Problem,” in 74th International Astronautical Congress, 2023.
