@@ -34,10 +34,6 @@ Below is a few packages for astrodynamics routines that I have used as building 
 
 Available:
 
-<!-- {% include minifeature_row id="feature_row_astrodynamicsbase" type="left" %} -->
-
-<!-- {% include minifeature_row id="feature_row_lambert" type="left" %} -->
-
 
 - [`AstrodynamicsBase.jl`](https://github.com/Yuricst/AstrodynamicsBase.jl) - basic astrodynamics routines for coordinate transformations, handling two-body orbital elements, defining astrodynamics constants, solving Kepler's problem, etc.
 - [`Lambert.jl`](https://github.com/Yuricst/Lambert.jl) - native julia Lambert solver, implementing Dario Izzo's revised algorithm. Also implements the MGA-1DSM model for high-thrust, gravity-assist interplanetary trajectory optimization.
