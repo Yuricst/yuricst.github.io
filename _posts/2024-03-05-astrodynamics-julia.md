@@ -9,8 +9,7 @@ tags:
 feature_row_astrodynamicsbase:
   - image_path: '../images/cflp_pmedian_sda.gif'
     alt: "AstrodynamicsBase.jl"
-    title: "`AstrodynamicsBase.jl`"
-    url: "https://github.com/Yuricst/AstrodynamicsBase.jl"
+    title: '<a href="https://github.com/Yuricst/AstrodynamicsBase.jl"> AstrodynamicsBase.jl </a>'
     excerpt: "
     Basic astrodynamics routines for coordinate transformations, handling two-body orbital elements, defining astrodynamics constants, solving Kepler's problem, etc.
     "
