@@ -18,9 +18,9 @@ That is not to say Julia is good for everything; there are situations where thin
 
 Anyway, for (research in) Astrodynamics, I do think Julia can be an attractive option!
 
-- dynamic language that is fast! (numba/cython is nice, can be limiting)
+- dynamic language that is fast! (numba/cython is nice, but can be limiting)
 - [`DifferentialEquations.jl`](https://github.com/SciML/DifferentialEquations.jl) is rich in capabilities (type of algorithms, customizability, parallelism paradigms...)
-- there is a SPICE wrapper - [`SPICE.jl`](https://github.com/JuliaAstro/SPICE.jl))
+- there is a SPICE wrapper - [`SPICE.jl`](https://github.com/JuliaAstro/SPICE.jl)
 - [`JuMP.jl`](https://github.com/jump-dev/JuMP.jl) provides good support for solving LP/MILP/QP/CP etc. within a modeling language setting
 
 Meanwhile, drawbacks that I personally felt using Julia is: 
@@ -34,10 +34,10 @@ Below is a few packages for astrodynamics routines that I have used as building 
 
 Available:
 
-- [`AstrodynamicsBase.jl`](https://github.com/Yuricst/AstrodynamicsBase.jl)
+- [`AstrodynamicsBase.jl`](https://github.com/Yuricst/AstrodynamicsBase.jl) - basic astrodynamics routines for coordinate transformations, handling two-body orbital elements, defining astrodynamics constants, solving Kepler's problem, etc.
 - [`Lambert.jl`](https://github.com/Yuricst/Lambert.jl) - native Lambert solver, implementing Dario Izzo's revised algorithm. Also implements the MGA-1DSM model for high-thrust, gravity-assist interplanetary trajectory optimization.
-- [`R3BP.jl`](https://github.com/Yuricst/R3BP.jl/)
-- [`FullEphemerisPropagator.jl`](https://github.com/Yuricst/FullEphemerisPropagator.jl)
+- [`R3BP.jl`](https://github.com/Yuricst/R3BP.jl/) - routines for restricted three-body problems (CR3BP, BCR4BP)
+- [`FullEphemerisPropagator.jl`](https://github.com/Yuricst/FullEphemerisPropagator.jl) - full-ephemeris spacecraft state propagation library, building on top of `DifferentialEquations.jl`. 
 
 
 *Coming soon!*
