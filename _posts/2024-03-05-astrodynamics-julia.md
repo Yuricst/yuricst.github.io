@@ -14,6 +14,27 @@ feature_row_julia_package:
     excerpt: "
     Basic astrodynamics routines for coordinate transformations, handling two-body orbital elements, defining astrodynamics constants, solving Kepler's problem, etc.
     "
+  - image_path: '../images/cflp_pmedian_sda.gif'
+    alt: "Lambert.jl"
+    title: "`Lambert.jl`"
+    url: "https://github.com/Yuricst/Lambert.jl"
+    excerpt: "
+    Native julia Lambert solver, implementing Dario Izzo's revised algorithm. Also implements the MGA-1DSM model for high-thrust, gravity-assist interplanetary trajectory optimization.
+    "
+  - image_path: '../images/cflp_pmedian_sda.gif'
+    alt: "R3BP.jl"
+    title: "`R3BP.jl`"
+    url: "https://github.com/Yuricst/R3BP.jl"
+    excerpt: "
+    Routines for restricted three-body problems (CR3BP, BCR4BP).
+    "
+  - image_path: '../images/cflp_pmedian_sda.gif'
+    alt: "FullEphemerisPropagator.jl"
+    title: "`FullEphemerisPropagator.jl`"
+    url: "https://github.com/Yuricst/FullEphemerisPropagator.jl"
+    excerpt: "
+    Full-ephemeris spacecraft state propagation library, building on top of `DifferentialEquations.jl`.
+    "
 ---
 
 My research is almost entirely based on writing code, so I end up spending quite a bit of time working with different programming languages, developing code for all sorts of simulations, piping different tools, etc. 
@@ -42,10 +63,10 @@ Below is a few packages for astrodynamics routines that I have used as building 
 
 Available:
 
-{% include feature_row id="feature_row_julia_package" type="center" %}
+{% include minifeature_row id="feature_row_julia_package" type="left" %}
 
 - [`AstrodynamicsBase.jl`](https://github.com/Yuricst/AstrodynamicsBase.jl) - basic astrodynamics routines for coordinate transformations, handling two-body orbital elements, defining astrodynamics constants, solving Kepler's problem, etc.
-- [`Lambert.jl`](https://github.com/Yuricst/Lambert.jl) - native Lambert solver, implementing Dario Izzo's revised algorithm. Also implements the MGA-1DSM model for high-thrust, gravity-assist interplanetary trajectory optimization.
+- [`Lambert.jl`](https://github.com/Yuricst/Lambert.jl) - native julia Lambert solver, implementing Dario Izzo's revised algorithm. Also implements the MGA-1DSM model for high-thrust, gravity-assist interplanetary trajectory optimization.
 - [`R3BP.jl`](https://github.com/Yuricst/R3BP.jl/) - routines for restricted three-body problems (CR3BP, BCR4BP)
 - [`FullEphemerisPropagator.jl`](https://github.com/Yuricst/FullEphemerisPropagator.jl) - full-ephemeris spacecraft state propagation library, building on top of `DifferentialEquations.jl`. 
 
