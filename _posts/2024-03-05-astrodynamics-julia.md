@@ -6,20 +6,6 @@ tags:
   - astrodynamics
   - julia
   - programming
-feature_row_astrodynamicsbase:
-  - image_path: '../images/cflp_pmedian_sda.gif'
-    alt: "AstrodynamicsBase.jl"
-    title: '<a href="https://github.com/Yuricst/AstrodynamicsBase.jl"> `AstrodynamicsBase.jl` </a>'
-    excerpt: "
-    Basic astrodynamics routines for coordinate transformations, handling two-body orbital elements, defining astrodynamics constants, solving Kepler's problem, etc.
-    "
-feature_row_lambert:
-  - image_path: '../images/cflp_pmedian_sda.gif'
-    alt: "Lambert.jl"
-    title: '<a href="https://github.com/Yuricst/Lambert.jl"> `Lambert.jl` </a>'
-    excerpt: "
-    Native julia Lambert solver, implementing Dario Izzo's revised algorithm. Also implements the MGA-1DSM model for high-thrust, gravity-assist interplanetary trajectory optimization.
-    "
 ---
 
 My research is almost entirely based on writing code, so I end up spending quite a bit of time working with different programming languages, developing code for all sorts of simulations, piping different tools, etc. 
