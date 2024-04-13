@@ -29,7 +29,7 @@ feature_row_flp:
     of on-orbit servicing depots for satellite constellations in high-altitude orbit. The high-altitude regime, such as Medium Earth Orbit (MEO), is a unique dynamical environment where lowthrust propulsion systems can provide the necessary thrust to conduct plane-change maneuvers between the various orbital planes of the constellation. As such, on-orbit servicing architectures involving servicer spacecraft that conduct round-trips between servicing depots and the client satellites of the constellation may be conceived. To this end, a new orbital facility location problem formulation is proposed based on binary linear programming, in which the costs of operating and allocating the facility(ies) to satellites are optimized in terms of the sum of the Equivalent Mass to Low Earth Orbit (EMLEO). 
 
     <br><br>
-    **Related publication:** Y. Shimane, N. Gollins, and K. Ho, “Orbital facility location problem for satellite constellation servicing depots,” J. Spacecr. Rockets, Accepted, 202
+    **Related publication:** Y. Shimane, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” J. Spacecr. Rockets, pp. 1–18, Mar. 2024, doi: 10.2514/1.A35691. [https://arc.aiaa.org/doi/full/10.2514/1.A35691](https://arc.aiaa.org/doi/full/10.2514/1.A35691)
     '
     url: /research/flp_osam/
     btn_label: "Read More"
