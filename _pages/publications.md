@@ -14,9 +14,14 @@ header:
 
 You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Yuri-Shimane) and [Google Scholar](https://scholar.google.com/citations?user=mNEn9XwAAAAJ&hl=en).
 
+
 ## Journal Publications
 
-- **Y. Shimane**, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” J. Spacecr. Rockets, pp. 1–18, Mar. 2024, doi: 10.2514/1.A35691. [https://arc.aiaa.org/doi/full/10.2514/1.A35691](https://arc.aiaa.org/doi/full/10.2514/1.A35691)
+- M. Patel, **Y. Shimane**, H. W. Lee, and K. Ho, “Cislunar Satellite Constellation Design via Integer Linear Programming,” J. Astronaut. Sci., vol. 71, no. 3, p. 26, May 2024, doi: [https://doi.org/10.1007/s40295-024-00445-8](https://doi.org/10.1007/s40295-024-00445-8).
+
+- G. P. Badura et al., Identifying Cislunar Orbital Families via Machine Learning on Light Curves, vol. 71, no. 3. Springer US, 2024. doi: [https://doi.org/10.1007/s40295-024-00447-6](https://doi.org/10.1007/s40295-024-00447-6).
+
+- **Y. Shimane**, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” J. Spacecr. Rockets, pp. 1–18, Mar. 2024, doi: [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8)
 
 - L. Visonneau, **Y. Shimane**, and K. Ho, "Optimizing Multi-Spacecraft Cislunar Space Domain Awareness Systems via Hidden-Genes Genetic Algorithm".  J. Astronaut. Sci., 2023. [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8)
 
@@ -83,4 +88,5 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 ## arXiv
 
-- **Y. Shimane**, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” arXiv, 2023, [Online]. Available: [http://arxiv.org/abs/2302.12191](http://arxiv.org/abs/2302.12191).
+- K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” arXiv, Apr. 2024, [Online]. Available: http://arxiv.org/abs/2404.18770
+
