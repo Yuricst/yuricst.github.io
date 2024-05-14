@@ -21,17 +21,17 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 - G. P. Badura et al., Identifying Cislunar Orbital Families via Machine Learning on Light Curves, vol. 71, no. 3. Springer US, 2024. doi: [https://doi.org/10.1007/s40295-024-00447-6](https://doi.org/10.1007/s40295-024-00447-6).
 
-- **Y. Shimane**, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” J. Spacecr. Rockets, pp. 1–18, Mar. 2024, doi: [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8)
+- **Y. Shimane**, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” J. Spacecr. Rockets, pp. 1–18, Mar. 2024, doi: [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8).
 
-- L. Visonneau, **Y. Shimane**, and K. Ho, "Optimizing Multi-Spacecraft Cislunar Space Domain Awareness Systems via Hidden-Genes Genetic Algorithm".  J. Astronaut. Sci., 2023. [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8)
+- L. Visonneau, **Y. Shimane**, and K. Ho, “Optimizing Multi-spacecraft Cislunar Space Domain Awareness Systems via Hidden-Genes Genetic Algorithm,” J. Astronaut. Sci., vol. 70, no. 4, p. 22, Jul. 2023, doi: [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8).
 
-- M. Märtens, D. Izzo, E. Blazquez, M. von Looz, P. Gomez, A. Mergy, G. Accdiarini, C.H. Yam, J. Hernando-Ayuso, **Y. Shimane**, “The fellowship of the Dyson ring: ACT&Friends’ results and methods for GTOC 11,” Acta Astronaut., no. February, 2022. [https://doi.org/10.1016/j.actaastro.2022.06.025](https://doi.org/10.1016/j.actaastro.2022.06.025)
+- M. Märtens et al., “The fellowship of the Dyson ring: ACT&Friends’ results and methods for GTOC 11,” Acta Astronaut., vol. 202, no. February 2022, pp. 807–818, 2023, doi: [https://doi.org/10.1016/j.actaastro.2022.06.025](https://doi.org/10.1016/j.actaastro.2022.06.025).
 
-- **Y. Shimane** and K. Ho, “Gravity‑Assist Low‑Thrust Inter‑System Trajectory Design with Manifold Captures,” J. Astronaut. Sci., 2022. [https://doi.org/10.1007/s40295-022-00319-x](https://doi.org/10.1007/s40295-022-00319-x) ([access paper](https://rdcu.be/cKPdk))
+- **Y. Shimane** and K. Ho, “Gravity‑Assist Low‑Thrust Inter‑System Trajectory Design with Manifold Captures,” J. Astronaut. Sci., 2022, doi: [https://doi.org/10.1007/s40295-022-00319-x](https://doi.org/10.1007/s40295-022-00319-x).
 
-- T. Sarton du Jonchay, H. Chen, M. Isaji, **Y. Shimane**, and K. Ho, “On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff,” J. Spacecr. Rockets, pp. 1–45, 2021. [https://doi.org/10.2514/1.A35094](https://doi.org/10.2514/1.A35094)
+- T. Sarton, H. Chen, M. Isaji, **Y. Shimane**, and K. Ho, “On-Orbit Servicing Optimization Framework with High- and Low-Thrust Propulsion Tradeoff,” J. Spacecr. Rockets, pp. 1–45, 2021, doi: [https://doi.org/10.2514/1.A35094](https://doi.org/10.2514/1.A35094).
 
-- J.-L. Margot, P. Pinchuk, R. Geil, S. Alexander, S. Arora, S. Biswas, J. Cebreros, S.P. Desai, B. Duclos, R. Dunne, K.K. Lin Fu, S. Goel, J. Gonzales, A. Gonzalez, R. Jain, A. Lam, B. Lewis, R. Lewis, G. Li, M. MacDougall, C. Makarem, I. Manan, E. Molina, C. Nagib, K. Neville, C. O'Toole, V. Rockwell, Y. Rokushima, G. Romanek, C. Schmidgall, S. Seth, R. Shah, **Y. Shimane**, M. Singhal, A. Tokadjan, L. Villafana, Z. Wang, I. Yun, L. Zhu, and R.S. Lynch, “A Search for Technosignatures Around 31 Sun-like Stars with the Green Bank Telescope at 1.15-1.73 GHz,” Astron. J., vol. 55, 2020. [https://doi.org/10.3847/1538-3881/abcc77](https://doi.org/10.3847/1538-3881/abcc77)
+- J.-L. Margot et al., “A Search for Technosignatures Around 31 Sun-like Stars with the Green Bank Telescope at 1.15-1.73 GHz,” Astron. J., vol. 55, 2020, doi: [https://doi.org/10.3847/1538-3881/abcc77](https://doi.org/10.3847/1538-3881/abcc77).
 
 
 
