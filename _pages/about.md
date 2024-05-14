@@ -23,6 +23,8 @@ In my free time, I took part in the 11th and 12th editions of the Global Traject
 In my non-astrodynamics-oriented free time, I enjoy shooting film photographs, playing tennis, and reading. 
 I am quite omnivorous about music, and depending on my mood will listen to anything from Brahms to The Blue Hearts. 
 
+**Research keywords**: astrodynamics/gnc, optimal control, location problems, routing problems
+
 
 ## Education
 
