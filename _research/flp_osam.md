@@ -20,9 +20,23 @@ The placement of facilities is a fundamental problem in terrestrial logistics. T
 The FLP has seen a wide range of applications, including emergency services, telecommunications, healthcare, waste disposal management, and disaster response. 
 
 
-## 2. Applications to space problems
+## 2. Applications to space problem: on-orbit servicing depot
 
 The problem of designing and deploying large-scale space-based architectures may be posed as an FLP. In doing so, considerations specific to space must be taken into account to successfully adapt to the application in question. 
+One such application is the placement of on-orbit servicing depots. 
+
+We consider the problem
+
+$$
+\begin{aligned}
+  \min_{X,Y} \quad& \sum_{j=1} f_j Y_j
+  \\
+  \text{s.t.} \quad
+  & \sum_{i=1} 
+  \\
+  & X_{ij}, Y_j \in \{0, 1\} \quad \forall i, j
+\end{aligned}
+$$
 
 
 ### Related publication:
