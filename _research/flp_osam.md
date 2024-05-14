@@ -41,7 +41,7 @@ $$
 
 ### Related publication:
 
-- Y. Shimane, N. Gollins, and K. Ho, “**Orbital Facility Location Problem for Satellite Constellation Servicing Depots**,” arXiv, 2023, [Online]. Available: [http://arxiv.org/abs/2302.12191](http://arxiv.org/abs/2302.12191).
+- Y. Shimane, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” J. Spacecr. Rockets, pp. 1–18, Mar. 2024, doi: 10.2514/1.A35691. [https://arc.aiaa.org/doi/full/10.2514/1.A35691](https://arc.aiaa.org/doi/full/10.2514/1.A35691)
 
 - Y. Shimane, A. Shirane, and K. Ho, “**Lunar Communication Relay Architecture Design via Multiperiod Facility Location Problem**,” 2023.
 
