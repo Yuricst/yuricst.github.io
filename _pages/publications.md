@@ -19,7 +19,7 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 - M. Patel, **Y. Shimane**, H. W. Lee, and K. Ho, “Cislunar Satellite Constellation Design via Integer Linear Programming,” J. Astronaut. Sci., vol. 71, no. 3, p. 26, May 2024, doi: [https://doi.org/10.1007/s40295-024-00445-8](https://doi.org/10.1007/s40295-024-00445-8).
 
-- G. P. Badura et al., Identifying Cislunar Orbital Families via Machine Learning on Light Curves, vol. 71, no. 3. Springer US, 2024. doi: [https://doi.org/10.1007/s40295-024-00447-6](https://doi.org/10.1007/s40295-024-00447-6).
+- G. P. Badura et al., “Identifying Cislunar Orbital Families via Machine Learning on Light Curves,” J. Astronaut. Sci., vol. 71, no. 3, p. 27, May 2024, doi: [https://doi.org/10.1007/s40295-024-00447-6](https://doi.org/10.1007/s40295-024-00447-6).
 
 - **Y. Shimane**, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” J. Spacecr. Rockets, pp. 1–18, Mar. 2024, doi: [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8).
 
