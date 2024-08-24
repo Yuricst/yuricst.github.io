@@ -39,9 +39,9 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 - **Y. Shimane**, K. Ho, and A. Weiss “Optimization-Based Phase-Constrained Station-Keeping Control on Libration Point Orbit,” in AAS/AIAA Astrodynamics Specialist Conference, 2024. Available: [https://www.merl.com/publications/docs/TR2024-109.pdf](https://www.merl.com/publications/docs/TR2024-109.pdf)
 
-- **Y. Shimane**, S. Henry, J. Christian, and K. Ho “Autonomous Navigation Strategy for Low-Energy Transfers with Limited Ground-Based Updates,” in AAS/AIAA Astrodynamics Specialist Conference, 2024.
+- **Y. Shimane**, S. Henry, J. Christian, and K. Ho “Autonomous Navigation Strategy for Low-Energy Transfers with Limited Ground-Based Updates,” in AAS/AIAA Astrodynamics Specialist Conference, 2024. Available: [Conference server](https://s3.amazonaws.com/amz.xcdsystem.com/A464D031-C624-C138-7D0E208E29BC4EDD_abstract_File24215/PreprintPaperUpload_319_0724040915.pdf)
 
-- I. Nolton, K. Tomita, **Y. Shimane**, and K. Ho “Sensitivity Analysis of Stretching Directions for Bounded Motion along Libration Point Orbits,” in AAS/AIAA Astrodynamics Specialist Conference, 2024.
+- I. Nolton, K. Tomita, **Y. Shimane**, and K. Ho “Sensitivity Analysis of Stretching Directions for Bounded Motion along Libration Point Orbits,” in AAS/AIAA Astrodynamics Specialist Conference, 2024. Available: [Conference server](https://s3.amazonaws.com/amz.xcdsystem.com/A464D031-C624-C138-7D0E208E29BC4EDD_abstract_File24215/PreprintPaperUpload_421_0726101951.pdf)
 
 - K. Tomita, **Y. Shimane**, and K. Ho, “Optimal Predictive Guidance for Autonomous Hazard Detection and Avoidance,” in AIAA SCITECH 2024 Forum, Reston, Virginia: American Institute of Aeronautics and Astronautics, Jan. 2024. doi: 10.2514/6.2024-1585. [https://arc.aiaa.org/doi/10.2514/6.2024-1585](https://arc.aiaa.org/doi/10.2514/6.2024-1585)
   

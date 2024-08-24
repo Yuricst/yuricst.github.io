@@ -16,7 +16,7 @@ redirect_from:
 I am a PhD student in the [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/) at Georgia Tech, supervised by Professor Koki Ho. 
 My research interest lies at the intersection of space logistics and astrodynamics, drawing optimization techniques from operations research to design and optimize space-based assets under astrodynamics and/or operational considerations. 
 
-Before starting my Ph.D., I completed my alma mater at Imperial College London with a Master's in aeronautical engineering (MEng) and a year abroad at the University of California, Los Angeles (UCLA). 
+Prior to my PhD, I completed my alma mater at Imperial College London with a Master's in aeronautical engineering (MEng) and a year abroad at the University of California, Los Angeles (UCLA). 
 In the past, I have worked on the design of low-energy transfers to low-lunar orbits as part of the mission analysis team at ispace, as well on cislunar GNC at Mitsubishi Electric Research Laboratories (MERL). 
 
 In my free time, I took part in the 11th and 12th editions of the Global Trajectory Optimisation Competition (GTOC) as part of the Advanced Concepts Team at ESTEC, finishing up on the second and fourth place, respectively.
