@@ -24,7 +24,7 @@ Education
 Work experience
 ======
 
-* Flight-Dynamics Intern, [Infinite Orbits](https://www.infiniteorbits.io/), Toulouse, France (2024/05 - 2024/08)
+* Flight Dynamics Intern, [Infinite Orbits](https://www.infiniteorbits.io/), Toulouse, France (2024/05 - 2024/08)
   * Formulated concepts of operations for far-range rendez-vous in GEO
   * Developed guidance logic for semi-autonomous and ground-based rendez-vous transfers
 
