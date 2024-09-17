@@ -13,12 +13,12 @@ intro:
 feature_row_flp:
   - image_path: '../images/cflp_pmedian_sda.gif'
     alt: "pmediansda"
-    title: "Facility Location Problem for Cislunar Space Domain Awareness"
+    title: "Facility Location Problem for Cislunar Space Situational Awareness"
     excerpt: '
-    The design of a satellite constellation to provide cislunar space domain awareness (SDA) is considered by formulating a time-expanded p-Median problem.
+    This work proposes a facility location problem framework for designing satellite constellations to provide Cislunar Space Situational Awareness (CSSA). The problem seeks to find the optimal locations of space-based observers to monitor a user-defined region of cislunar space, represented by a finite set of targets with potentially time-varying observation requirements. The optimization problem is posed as a time-expanded facility location problem (FLP); unlike a traditional FLP that focuses on assigning facilities to clients, the proposed formulation focuses on assigning observers to specific pointing directions from a discretized set. To aid with the solving process of the resulting large-scale binary linear program, a Lagrangean method (LM) based on constraint relaxation and custom heuristics is provided. The performance of the proposed formulation and method is demonstrated with several case studies that obtained CSSA constellations for monitoring the lunar sphere of influence, the cislunar Cone of Shame, and a transit window for low-energy transfers located in the Earth-Moon L2 neck region. The proposed problem formulation, along with the LM, is demonstrated to enable a fast assessment of near-optimal CSSA constellations.
 
     <br><br>
-    **Related publication:** Y. Shimane, K. Tomita, and K. Ho, “Strategic Regions for Monitoring Incoming Low-Energy Transfers to Low-Lunar Orbit,” in Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference, 2023.
+    **Related publication:** Y. Shimane, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded Facility Location Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
     '
 
   - image_path: '../images/flp_allocation_D1m2000.png'
