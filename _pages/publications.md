@@ -12,7 +12,7 @@ header:
 
 <!-- This is in IEEE style -->
 
-You can also find my articles at my [ResearchGate](https://www.researchgate.net/profile/Yuri-Shimane) and [Google Scholar](https://scholar.google.com/citations?user=mNEn9XwAAAAJ&hl=en).
+You can also find my articles on my [ResearchGate](https://www.researchgate.net/profile/Yuri-Shimane) and [Google Scholar](https://scholar.google.com/citations?user=mNEn9XwAAAAJ&hl=en).
 
 
 ## Journal Publications
