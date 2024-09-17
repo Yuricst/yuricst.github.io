@@ -29,12 +29,14 @@ We consider the problem
 
 $$
 \begin{aligned}
-  \min_{X,Y} \quad& \sum_{j=1} f_j Y_j
+  \min_{X,Y} \quad& \sum_{j=1} f_j Y_j + \sum_{i=1}^m \sum_{j=1}^n c_{ij} X_{ij}
   \\
-  \text{s.t.} \quad
-  & \sum_{i=1} 
+  \text{such that} \quad
+  & \sum_{j = 1}^n X_{ij} = 1 \quad \quad\, \forall i \in \mathcal{M}
   \\
-  & X_{ij}, Y_j \in \{0, 1\} \quad \forall i, j
+  & X_{ij} \leq Y_j        \quad \quad \quad \,\,\,\, \forall i \in \mathcal{M}, j \in \mathcal{N}
+  \\
+  & X_{ij}, Y_j \in \{0, 1\} \quad \forall i \in \mathcal{M}, j \in \mathcal{N}
 \end{aligned}
 $$
 
