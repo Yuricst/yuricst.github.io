@@ -34,6 +34,17 @@ feature_row_flp:
     btn_class: "btn--primary"
 
 feature_row_gnc:
+  - image_path: '../images/PhaseSOCP.png'
+    alt: "opnavnrho"
+    title: "Optimization-Based Station-Keeping on Libration Point Orbits"
+    excerpt: '
+        **With:** Mitsubishi Electric Research Laboratories
+        <br><br>
+        In this work, an optimization-based station-keeping algorithm for colinear libration point orbits (LPO) based on the xz-plane crossing control technique is conceived. The optimization problem is cast as a sequential second-order cone pro- gram and incorporates an explicit constraint on the perilune pass epoch to en- sure the steered trajectory follows the reference baseline without deviating in phase. The resulting formulation has easily interpretable tuning parameters that may be obtained directly from mission requirements. The algorithm is demonstrated through Monte-Carlo simulations on the Gateway’s Near Rectilinear Halo Orbit (NRHO) in the full-ephemeris dynamics with realistic error models.
+        <br><br>
+        **Related publication:** Y. Shimane, K. Ho, and A. Weiss “Optimization-Based Phase-Constrained Station-Keeping Control on Libration Point Orbit,” in AAS/AIAA Astrodynamics Specialist Conference, 2024. Available: [https://www.merl.com/publications/docs/TR2024-109.pdf](https://www.merl.com/publications/docs/TR2024-109.pdf)
+    '
+
   - image_path: '../images/cam_opnav_14days0001-2016_compressed.gif'
     alt: "opnavnrho"
     title: "Autonomous Optical Navigation on Near-Rectilinear Halo Orbit"
