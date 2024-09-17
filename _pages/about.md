@@ -27,7 +27,7 @@ In my non-research-oriented free time, I enjoy shooting film photographs, playin
 
 **Featured research work**: 
 
-- [Facility Location Problem for On-Orbit Servicing Depot (Journal of Spacecraft and Rockets)](https://link.springer.com/article/10.1007/s40295-023-00386-8)
+- [Facility Location Problem for On-Orbit Servicing Depot (Journal of Spacecraft and Rockets)](https://arc.aiaa.org/doi/full/10.2514/1.A35691)
 - [Optimization-Based Station-Keeping on Libration Point Orbits (AAS Astrodynamics Specialist Conference)]((https://www.merl.com/publications/docs/TR2024-109.pdf))
 - [Horizon-Based Optical Navigation for NRHO (74th International Astronautical Congress)]((https://www.merl.com/publications/docs/TR2023-128.pdf))
 

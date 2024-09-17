@@ -21,7 +21,7 @@ You can also find my articles at my [ResearchGate](https://www.researchgate.net/
 
 - G. P. Badura et al., “Identifying Cislunar Orbital Families via Machine Learning on Light Curves,” J. Astronaut. Sci., vol. 71, no. 3, p. 27, May 2024, doi: [https://doi.org/10.1007/s40295-024-00447-6](https://doi.org/10.1007/s40295-024-00447-6).
 
-- **Y. Shimane**, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” J. Spacecr. Rockets, vol. 61, no. 3, pp. 808–825, May 2024, doi: [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8).
+- **Y. Shimane**, N. Gollins, and K. Ho, “Orbital Facility Location Problem for Satellite Constellation Servicing Depots,” J. Spacecr. Rockets, vol. 61, no. 3, pp. 808–825, May 2024, doi: [https://arc.aiaa.org/doi/full/10.2514/1.A35691](https://arc.aiaa.org/doi/full/10.2514/1.A35691).
 
 - L. Visonneau, **Y. Shimane**, and K. Ho, “Optimizing Multi-spacecraft Cislunar Space Domain Awareness Systems via Hidden-Genes Genetic Algorithm,” J. Astronaut. Sci., vol. 70, no. 4, p. 22, Jul. 2023, doi: [https://link.springer.com/article/10.1007/s40295-023-00386-8](https://link.springer.com/article/10.1007/s40295-023-00386-8).
 
