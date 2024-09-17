@@ -73,6 +73,6 @@ Please see [here](/publications/)
   * Participated as part of Team 6. ESA ACT & Friends, 2nd place overall
 
 
-### Contact
+## Contact
 
 - Email: yuri.shimane{at}gatech.edu
