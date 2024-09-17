@@ -34,6 +34,10 @@ I am quite omnivorous about music, and depending on my mood will listen to anyth
 
 ## Work experience
 
+* Flight Dynamics Intern, [Infinite Orbits](https://www.infiniteorbits.io/), Toulouse, France (2024/05 - 2024/08)
+  * Formulated concepts of operations for far-range rendez-vous in GEO
+  * Developed guidance logic for semi-autonomous and ground-based rendez-vous transfers
+
 * Spacecraft GNC Intern, [Mitsubishi Electric Research Laboratories](https://www.merl.com/), 2023/05 - 2023/08, 2024/01 - 2024/05
   * Developed GNC stack for autonomous navigation and control in cislunar space
   * Developed synthetic imaging tool for horion-based optical navigation
