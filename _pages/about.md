@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 I am a PhD candidate in the [**Space Systems Optimization Group (SSOG)**](https://ssog.ae.gatech.edu/) at **Georgia Tech**, supervised by Professor Koki Ho. 
-The overarching theme of my research interest is **decision making** - this includes both "strategic" decisions for desining in-space infrastructures, as well as "operational" decisions for operating spacecraft (or fleet of spacecraft) to perform its mission, autonomously or semi-autonomously. 
+The overarching theme of my research interest is **decision making** - this includes both *strategic decisions* for desining in-space infrastructures, as well as *operational decisions* for operating spacecraft (or fleet of spacecraft) to perform its mission, autonomously or semi-autonomously. 
 The former consists of topics from the field of Space Logistics, while the latter is from Mission Design** and Guidance, Navigation & Control (GNC). 
 
 Prior to my PhD, I completed my alma mater at **Imperial College London** with a Master's in aeronautical engineering (MEng) and a year abroad at the **University of California, Los Angeles (UCLA)**. 
