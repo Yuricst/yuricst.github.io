@@ -13,17 +13,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Space Systems Optimization Group (SSOG)](https://ssog.ae.gatech.edu/) at Georgia Tech, supervised by Professor Koki Ho. 
-My research interest lies at the intersection of space logistics and astrodynamics, drawing optimization techniques from operations research to design and optimize space-based assets under astrodynamics and/or operational considerations. 
+I am a PhD candidate in the [**Space Systems Optimization Group (SSOG)**](https://ssog.ae.gatech.edu/) at **Georgia Tech**, supervised by Professor Koki Ho. 
+The overarching theme of my research interest is **decisions** - this includes both "strategic" decisions for desining in-space infrastructures, as well as "operational" decisions for operating spacecraft (or fleet of spacecraft) to perform its mission, autonomously or semi-autonomously. 
+The former consists of topics from the field of **Space Logistics**, while the latter is from **Mission Design** and **Guidance, Navigation & Control (GNC)**. 
 
-Prior to my PhD, I completed my alma mater at Imperial College London with a Master's in aeronautical engineering (MEng) and a year abroad at the University of California, Los Angeles (UCLA). 
-In the past, I have worked on the design of low-energy transfers to low-lunar orbits as part of the mission analysis team at ispace, as well on cislunar GNC at Mitsubishi Electric Research Laboratories (MERL). 
+Prior to my PhD, I completed my alma mater at **Imperial College London** with a Master's in aeronautical engineering (MEng) and a year abroad at the **University of California, Los Angeles (UCLA)**. 
+In the past, I have worked on the **design of low-energy transfers** to low-lunar orbits as part of the mission analysis team at [ispace](https://ispace-inc.com/), **GNC on cislunar libration point orbit missions** at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/), and **G&C for rendez-vous with geostationary satellite** at [Infinite Orbits](https://www.infiniteorbits.io/). 
 
-In my free time, I took part in the 11th and 12th editions of the Global Trajectory Optimisation Competition (GTOC) as part of the Advanced Concepts Team at ESTEC, finishing up on the second and fourth place, respectively.
+In my free time, I took part in the 11th and 12th editions of the **Global Trajectory Optimisation Competition (GTOC)** as part of the Advanced Concepts Team at ESTEC, finishing up on the second and fourth place, respectively.
 In my non-astrodynamics-oriented free time, I enjoy shooting film photographs, playing tennis, and reading. 
-I am quite omnivorous about music, and depending on my mood will listen to anything from Brahms to The Blue Hearts. 
 
-**Research keywords**: astrodynamics/gnc, optimal control, location problems, routing problems
+**Research keywords**: Astrodynamics, GNC, Optimal Control, Location Problems, Routing Problems, Scheduling Problems
 
 
 ## Education
