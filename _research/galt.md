@@ -19,7 +19,7 @@ When traveling across multiple planetary or moon systems, invariant manifold str
 This work proposes an approach to design gravity-assist low-thrust transfers that lever- age manifold structures at departure or arrival. The approach involves a modification to the Sims-Flanagan transcription by incorporating parametrization of arrival to a manifold Poincaré section instead of a celestial body. A key advantage is its use of two-body dynamics for the propagation of the majority of the transfer. This enables large-scale and realistic assessment of possible solutions through a combination of ODE-based propagation of the manifold, and Lagrange coefficients-based propagation of the inter-system portion of the transfer. Leveraging the proposed method, a low-thrust transfer from Earth to the Sun-Venus system, also incorporating an Earth fly-by in between, is studied. 
 
 <p align="center">
-  <img src="./images/galt_manifold.png" width="550" title="galt_manifold">
+  <img src="../images/galt_manifold.png" width="550" title="galt_manifold">
 </p>
 
 

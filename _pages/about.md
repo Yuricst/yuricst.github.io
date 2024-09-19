@@ -14,8 +14,13 @@ redirect_from:
 ---
 
 I am a PhD candidate in the [**Space Systems Optimization Group (SSOG)**](https://ssog.ae.gatech.edu/) at **Georgia Tech**, supervised by Professor Koki Ho. 
-The overarching theme of my research interest is **decision making** - this includes both *strategic decisions* for designing in-space infrastructures or designing space missions and multi-mission campaigns, as well as *operational decisions* for operating spacecraft (or fleet of spacecraft) to perform its mission, autonomously or semi-autonomously. 
+The overarching theme of my research interest is **decision making** - this includes (1) *strategic decisions* for designing in-space infrastructures or designing space missions and multi-mission campaigns, and (2) *operational decisions* for operating spacecraft (or fleet of spacecraft) to perform its mission, autonomously or semi-autonomously. 
 In effect, my research lies at the intersection of Space Logistics, Astrodynamics, and Guidance, Navigation & Control (GNC). 
+
+
+<p align="center">
+  <img src="../images/DecisionMaking.png" width="850" title="galt_manifold">
+</p>
 
 Prior to my PhD, I completed my alma mater at **Imperial College London** with a Master's in aeronautical engineering (MEng) and a year abroad at the **University of California, Los Angeles (UCLA)**. 
 In the past, I have worked on the **design of low-energy transfers** to low-lunar orbits as part of the mission analysis team at [ispace](https://ispace-inc.com/), **GNC on cislunar libration point orbit missions** at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/), and **G&C for rendez-vous with geostationary satellite** at [Infinite Orbits](https://www.infiniteorbits.io/). 
