@@ -94,7 +94,7 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## arXiv
 
-- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded Facility Location Problem,” 2024, [Online]. Available: http://arxiv.org/abs/2408.06238
+- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded Facility Location Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
 
-- K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” arXiv, Apr. 2024, [Online]. Available: http://arxiv.org/abs/2404.18770
+- K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” arXiv, Apr. 2024, [Online]. Available: [http://arxiv.org/abs/2404.18770](http://arxiv.org/abs/2404.18770)
 
