@@ -34,11 +34,16 @@ In my non-research-oriented free time, I enjoy shooting film photographs, playin
 
 **Research keywords**: Astrodynamics, GNC, Optimal Control, Location Problems, Routing Problems, Scheduling Problems
 
-**Featured research work**: 
+### Featured research work
 
 - [Facility Location Problem for On-Orbit Servicing Depot (Journal of Spacecraft and Rockets)](https://arc.aiaa.org/doi/full/10.2514/1.A35691)
 - [Optimization-Based Station-Keeping on Libration Point Orbits (AAS Astrodynamics Specialist Conference)](https://www.merl.com/publications/docs/TR2024-109.pdf)
 - [Horizon-Based Optical Navigation for NRHO (74th International Astronautical Congress)](https://www.merl.com/publications/docs/TR2023-128.pdf)
+
+
+### Recent Invited Talks
+
+- [*SPACE LOGISTICS: APPLICATIONS OF OPERATIONS RESEARCH TO IN-SPACE INFRASTRUCTURE DESIGN*, Dipartimento di Scienze e Tecnologie Aerospaziali, Politecnico di Milano, July 19, 2024.](https://www.aero.polimi.it/en/magazine/space-logistics:-applications-of-operations-research-to-in-space-infrastructure-design) 
 
 
 ## Education
