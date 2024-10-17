@@ -17,6 +17,8 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## Journal Publications
 
+- K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” J. Spacecr. Rockets, no. Ml, pp. 1–5, Oct. 2024, doi: [https://arc.aiaa.org/doi/10.2514/1.A36122](https://arc.aiaa.org/doi/10.2514/1.A36122).
+
 - M. Patel, **Y. Shimane**, H. W. Lee, and K. Ho, “Cislunar Satellite Constellation Design via Integer Linear Programming,” J. Astronaut. Sci., vol. 71, no. 3, p. 26, May 2024, doi: [https://doi.org/10.1007/s40295-024-00445-8](https://doi.org/10.1007/s40295-024-00445-8).
 
 - G. P. Badura et al., “Identifying Cislunar Orbital Families via Machine Learning on Light Curves,” J. Astronaut. Sci., vol. 71, no. 3, p. 27, May 2024, doi: [https://doi.org/10.1007/s40295-024-00447-6](https://doi.org/10.1007/s40295-024-00447-6).
