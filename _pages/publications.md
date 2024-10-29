@@ -39,7 +39,7 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## Conference Proceedings
 
-- **Y. Shimane**, K. Ho, A. Weiss, and A. Engineering, “Autonomous Horizon-Based Optical Navigation on Near-Planar Cislunar Libration Point Orbits,” in 4th Space Imaging Workshop, 2024. Available: [Conference server](https://seal.ae.gatech.edu/sites/default/files/2024-09/ShimaneYuri.pdf)
+- **Y. Shimane**, K. Ho, and A. Weiss, “Autonomous Horizon-Based Optical Navigation on Near-Planar Cislunar Libration Point Orbits,” in 4th Space Imaging Workshop, 2024. Available: [Conference server](https://seal.ae.gatech.edu/sites/default/files/2024-09/ShimaneYuri.pdf)
 
 - **Y. Shimane**, K. Ho, and A. Weiss “Optimization-Based Phase-Constrained Station-Keeping Control on Libration Point Orbit,” in AAS/AIAA Astrodynamics Specialist Conference, 2024. Available: [https://www.merl.com/publications/docs/TR2024-109.pdf](https://www.merl.com/publications/docs/TR2024-109.pdf)
 
