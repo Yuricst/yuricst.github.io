@@ -1,5 +1,5 @@
 ---
-title: "Time-Expanded p-Median Problem for Cislunar Space Situational Awareness"
+title: "Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem"
 excerpt: "Facility Location Problem for Space-Based Assets"
 image: 
   url: '../images/flp_allocation_D1m2000.png'
@@ -17,5 +17,4 @@ This work proposes a facility location problem framework for designing satellite
 
 ### Related publication:
 
-**Y. Shimane**, K. Ho, and A. Weiss “Optimization-Based Phase-Constrained Station-Keeping Control on Libration Point Orbit,” in AAS/AIAA Astrodynamics Specialist Conference, 2024. Available: [https://www.merl.com/publications/docs/TR2024-109.pdf](https://www.merl.com/publications/docs/TR2024-109.pdf)
-
+**Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
