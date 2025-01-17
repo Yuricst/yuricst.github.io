@@ -39,6 +39,14 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## Conference Proceedings
 
+- **Y. Shimane**, S. Di Cairano, K. Ho, and A. Weiss, "Station-Keeping on Near-Rectilinear Halo Orbits via Full-State Targeting Model Predictive Control", in IEEE American Control Conference 2025 (accepted).
+
+- **Y. Shimane**, N. Gollins, and K. Ho, “Multi-Sensor Tasking for Ground-Based Space Situational Awareness via Job-Shop Scheduling Problem,” in AAS/AIAA Space Flight Mechanics Meeting, 2025. Available: [Conference server](https://s3.amazonaws.com/amz.xcdsystem.com/A464D031-C624-C138-7D0E208E29BC4EDD_abstract_File24835/PreprintPaperUploadPDF_321_0103063552.pdf)
+
+- **Y. Shimane**, D. Opoka, and R. Tarone, “Guidance and Control for Rendezvous with Cooperative Target on Geostationary Orbit,” in AAS/AIAA Space Flight Mechanics Meeting, 2025. Available: [Conference server](https://s3.amazonaws.com/amz.xcdsystem.com/A464D031-C624-C138-7D0E208E29BC4EDD_abstract_File24835/PreprintPaperUploadPDF_265_0103071108.pdf)
+
+- **Y. Shimane** and K. Ho, “Continuous Facility Location Problem of In-Orbit Assets With Embedded Surrogate Model,” in AIAA Scitech 2025 Forum, 2025, pp. 1–15. doi: [https://arc.aiaa.org/doi/10.2514/6.2025-1103](https://arc.aiaa.org/doi/10.2514/6.2025-1103).
+
 - **Y. Shimane**, K. Ho, and A. Weiss, “Autonomous Horizon-Based Optical Navigation on Near-Planar Cislunar Libration Point Orbits,” in 4th Space Imaging Workshop, 2024. Available: [Conference server](https://seal.ae.gatech.edu/sites/default/files/2024-09/ShimaneYuri.pdf)
 
 - **Y. Shimane**, K. Ho, and A. Weiss “Optimization-Based Phase-Constrained Station-Keeping Control on Libration Point Orbit,” in AAS/AIAA Astrodynamics Specialist Conference, 2024. Available: [https://www.merl.com/publications/docs/TR2024-109.pdf](https://www.merl.com/publications/docs/TR2024-109.pdf)
@@ -98,7 +106,7 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## arXiv
 
-- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded Facility Location Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
+- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
 
 - K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” arXiv, Apr. 2024, [Online]. Available: [http://arxiv.org/abs/2404.18770](http://arxiv.org/abs/2404.18770)
 
