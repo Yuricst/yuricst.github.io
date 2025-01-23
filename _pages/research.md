@@ -10,7 +10,19 @@ header:
   caption: "(c) Yuri Shimane / Setouchi, Japan"
 intro: 
   - excerpt: ''
-feature_row_flp:
+feature_row_logistics:
+  - image_path: '../images/cflp_pmedian_sda.gif'
+    alt: "telescopeJSSP"
+    title: "Multi-Sensor Tasking for Ground-Based Telescopes via Job-Shop Scheduling Problem"
+    excerpt: '
+    The short-term telescope tasking problem consists of rapidly constructing a sensor-tasking schedule for observing resident space objects (RSO) passing overhead. Due to the short-term prediction horizon necessitated by this application, motion of RSOs can be assumed to be exactly known, making the prolbem deterministic. We derive a job-shop-scheduling problem for both single and multi-telescope sensor-tasking scenarios. 
+    <br><br>
+    **Related publication:** Y. Shimane, N. Gollins, and K. Ho, “Multi-Sensor Tasking for Ground-Based Space Situational Awareness via Job-Shop Scheduling Problem,” in AAS/AIAA Space Flight Mechanics Meeting, 2025. Available: [Conference server](https://s3.amazonaws.com/amz.xcdsystem.com/A464D031-C624-C138-7D0E208E29BC4EDD_abstract_File24835/PreprintPaperUploadPDF_321_0103063552.pdf)
+    '
+    url: /research/telescope_tasking/
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+
   - image_path: '../images/cflp_pmedian_sda.gif'
     alt: "pmediansda"
     title: "Time-Expanded p-Median Problem for Cislunar Space Situational Awareness"
@@ -37,7 +49,7 @@ feature_row_flp:
 
 feature_row_gnc:
   - image_path: '../images/PhaseSOCP.png'
-    alt: "opnavnrho"
+    alt: "sklpo"
     title: "Optimization-Based Station-Keeping on Libration Point Orbits"
     excerpt: '
         **With:** Mitsubishi Electric Research Laboratories
@@ -100,9 +112,9 @@ toc_sticky: true
 
 {% include feature_row id="intro" type="center" %}
 
-# 1. In-Space Asset Design and Optimization
+# 1. Space Logistics
 
-{% include feature_row id="feature_row_flp" %}
+{% include feature_row id="feature_row_logistics" %}
 
 # 2. Guidance, Navigation, and Control (GNC)
 

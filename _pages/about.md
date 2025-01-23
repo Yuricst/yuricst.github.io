@@ -29,6 +29,7 @@ In effect, my research lies at the intersection of Space Logistics, Astrodynamic
 
 Prior to my PhD, I completed my alma mater at **Imperial College London** with a Master's in aeronautical engineering (MEng) and a year abroad at the **University of California, Los Angeles (UCLA)**. 
 In the past, I have worked on the **design of low-energy transfers** to low-lunar orbits as part of the mission analysis team at [ispace](https://ispace-inc.com/), **GNC on cislunar libration point orbit missions** at [Mitsubishi Electric Research Laboratories (MERL)](https://www.merl.com/), and **G&C for rendez-vous with geostationary satellite** at [Infinite Orbits](https://www.infiniteorbits.io/). 
+I received the Breakwell Student Paper Award at the 2025 AAS/AIAA Space Flight Mechanics Meeeting held in Kaua'i, Hawaii. 
 
 In my free time, I took part in the 11th and 12th editions of the **Global Trajectory Optimisation Competition (GTOC)** as part of the Advanced Concepts Team at ESTEC, finishing up on the second and fourth place, respectively.
 In my non-research-oriented free time, I enjoy shooting film photographs, playing tennis, and reading. 
@@ -49,7 +50,7 @@ In my non-research-oriented free time, I enjoy shooting film photographs, playin
 
 ## Education
 
-* Ph.D in Aerospace Engineering, **Georgia Institute of Technology**, 2021 - present
+* Ph.D in Aerospace Engineering, **Georgia Institute of Technology**, 2021 - 2025 (expected)
 * Year Abroad in Aerospace Engineering, **University of California - Los Angeles**, 2018 - 2019
 * MEng in Aeronautical Engineering, **Imperial College London**, 2016 - 2020
 
