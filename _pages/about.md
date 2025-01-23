@@ -13,7 +13,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the [**Space Systems Optimization Group (SSOG)**](https://ssog.ae.gatech.edu/) at **Georgia Tech**, supervised by Professor Koki Ho. 
+I am a PhD candidate in the [**Space Systems Optimization Group (SSOG)**](https://ssog.ae.gatech.edu/) at **Georgia Institute of Technology**, supervised by Professor Koki Ho. 
 
 <!-- The overarching theme of my research interest is **decision-making** - this includes:
 
