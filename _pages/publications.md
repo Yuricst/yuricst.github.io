@@ -17,7 +17,7 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## Journal Publications
 
-- **Y. Shimane**, S. Di Rairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” IEEE Trans. Control Syst. Technol. (under review)
+- **Y. Shimane**, S. Di Cairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” IEEE Trans. Control Syst. Technol. (under review)
 
 - **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” J. Spacecr. Rockets. (under review)
 
