@@ -17,6 +17,10 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## Journal Publications
 
+- **Y. Shimane**, S. Di Rairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” IEEE Trans. Control Syst. Technol. (under review)
+
+- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” J. Spacecr. Rockets. (under review)
+
 - K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” J. Spacecr. Rockets, no. Ml, pp. 1–5, Oct. 2024, doi: [https://arc.aiaa.org/doi/10.2514/1.A36122](https://arc.aiaa.org/doi/10.2514/1.A36122).
 
 - M. Patel, **Y. Shimane**, H. W. Lee, and K. Ho, “Cislunar Satellite Constellation Design via Integer Linear Programming,” J. Astronaut. Sci., vol. 71, no. 3, p. 26, May 2024, doi: [https://doi.org/10.1007/s40295-024-00445-8](https://doi.org/10.1007/s40295-024-00445-8).
