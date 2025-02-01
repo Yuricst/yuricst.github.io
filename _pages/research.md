@@ -11,7 +11,7 @@ header:
 intro: 
   - excerpt: ''
 feature_row_logistics:
-  - image_path: '../images/cflp_pmedian_sda.gif'
+  - image_path: '../images/TelescopeTasking/ecef_solution_ecef_STTP1_targetA_E1_Gurobi_az210.gif'
     alt: "telescopeJSSP"
     title: "Multi-Sensor Tasking for Ground-Based Telescopes via Job-Shop Scheduling Problem"
     excerpt: '
