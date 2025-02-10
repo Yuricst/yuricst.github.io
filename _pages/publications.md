@@ -17,9 +17,9 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## Journal Publications
 
-- **Y. Shimane**, S. Di Cairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” IEEE Trans. Control Syst. Technol. (under review)
+- **Y. Shimane**, S. Di Cairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” IEEE Trans. Control Syst. Technol. (under review; arxiv: [http://arxiv.org/abs/2502.05013](http://arxiv.org/abs/2502.05013))
 
-- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” J. Spacecr. Rockets. (under review)
+- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” J. Spacecr. Rockets. (under review; arxiv: [https://arxiv.org/abs/2310.04894](https://arxiv.org/abs/2310.04894))
 
 - K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” J. Spacecr. Rockets, no. Ml, pp. 1–5, Oct. 2024, doi: [https://arc.aiaa.org/doi/10.2514/1.A36122](https://arc.aiaa.org/doi/10.2514/1.A36122).
 
@@ -109,6 +109,8 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 
 ## arXiv
+
+- **Y. Shimane**, S. Di Cairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” 2025, [Online]. Available: [http://arxiv.org/abs/2502.05013](http://arxiv.org/abs/2502.05013)
 
 - **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
 
