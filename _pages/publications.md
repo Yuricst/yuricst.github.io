@@ -19,7 +19,7 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 - **Y. Shimane**, S. Di Cairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” IEEE Trans. Control Syst. Technol. (under review; arxiv: [http://arxiv.org/abs/2502.05013](http://arxiv.org/abs/2502.05013))
 
-- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” J. Spacecr. Rockets. (under review; arxiv: [https://arxiv.org/abs/2310.04894](https://arxiv.org/abs/2310.04894))
+- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” J. Spacecr. Rockets. (under review; arxiv: [https://arxiv.org/abs/2408.06238](https://arxiv.org/abs/2408.06238))
 
 - K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” J. Spacecr. Rockets, no. Ml, pp. 1–5, Oct. 2024, doi: [https://arc.aiaa.org/doi/10.2514/1.A36122](https://arc.aiaa.org/doi/10.2514/1.A36122).
 
@@ -116,3 +116,4 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 - K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” arXiv, Apr. 2024, [Online]. Available: [http://arxiv.org/abs/2404.18770](http://arxiv.org/abs/2404.18770)
 
+- K. Tomita, **Y. Shimane**, and K. Ho, “Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness,” in Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference, 2023. [Online]. Available: http://arxiv.org/abs/2310.04894
