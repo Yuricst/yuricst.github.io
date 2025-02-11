@@ -116,4 +116,4 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 - K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” arXiv, Apr. 2024, [Online]. Available: [http://arxiv.org/abs/2404.18770](http://arxiv.org/abs/2404.18770)
 
-- K. Tomita, **Y. Shimane**, and K. Ho, “Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness,” in Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference, 2023. [Online]. Available: http://arxiv.org/abs/2310.04894
+- K. Tomita, **Y. Shimane**, and K. Ho, “Multi-Spacecraft Predictive Sensor Tasking for Cislunar Space Situational Awareness,” in Advanced Maui Optical and Space Surveillance Technologies (AMOS) Conference, 2023. [Online]. Available: [http://arxiv.org/abs/2310.04894](http://arxiv.org/abs/2310.04894)
