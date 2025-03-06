@@ -17,6 +17,8 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## Journal Publications
 
+- D. Izzo et al., “Asteroid mining: ACT&Friends’ results for the GTOC12 problem,” Astrodynamics, vol. 9, no. 1, pp. 19–40, Feb. 2025, doi: [10.1007/s42064-024-0204-x](https://link.springer.com/article/10.1007/s42064-024-0204-x).
+
 - **Y. Shimane**, S. Di Cairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” IEEE Trans. Control Syst. Technol. (under review; arxiv: [http://arxiv.org/abs/2502.05013](http://arxiv.org/abs/2502.05013))
 
 - **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” J. Spacecr. Rockets. (under review; arxiv: [https://arxiv.org/abs/2408.06238](https://arxiv.org/abs/2408.06238))

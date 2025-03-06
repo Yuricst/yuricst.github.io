@@ -79,7 +79,7 @@ feature_row_astrodynamics:
         <br><br>
         We competed in the 12th GTOC competition and ended up 4th place overall!
         <br><br>
-        **Related publication:** (coming soon!)
+        **Related publication:** Y. Shimane and K. Ho, “Asteroid mining: ACT&Friends’ results for the GTOC12 problems,” Astrodynamics, 2025. [10.1007/s42064-024-0204-x](https://link.springer.com/article/10.1007/s42064-024-0204-x)
     '
 
   - image_path: '../images/galt_manifold.png'

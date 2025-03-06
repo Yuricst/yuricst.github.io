@@ -39,7 +39,7 @@ In my non-research-oriented free time, I enjoy shooting film photographs, playin
 ### Featured research work
 
 - [Facility Location Problem for On-Orbit Servicing Depot (Journal of Spacecraft and Rockets)](https://arc.aiaa.org/doi/full/10.2514/1.A35691)
-- [Optimization-Based Station-Keeping on Libration Point Orbits (AAS Astrodynamics Specialist Conference)](https://www.merl.com/publications/docs/TR2024-109.pdf)
+- [Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits (ACC 2025)](http://arxiv.org/abs/2502.05013)
 - [Horizon-Based Optical Navigation for NRHO (74th International Astronautical Congress)](https://www.merl.com/publications/docs/TR2023-128.pdf)
 
 
