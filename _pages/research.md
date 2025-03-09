@@ -48,15 +48,15 @@ feature_row_logistics:
     btn_class: "btn--primary"
 
 feature_row_gnc:
-  - image_path: '../images/PhaseSOCP.png'
+  - image_path: '../images/skmpc_summary.png'
     alt: "sklpo"
-    title: "Optimization-Based Station-Keeping on Libration Point Orbits"
+    title: "MPC Station-Keeping on Libration Point Orbits"
     excerpt: '
         **With:** Mitsubishi Electric Research Laboratories
         <br><br>
-        In this work, an optimization-based station-keeping algorithm for colinear libration point orbits (LPO) based on the xz-plane crossing control technique is conceived. The optimization problem is cast as a sequential second-order cone pro- gram and incorporates an explicit constraint on the perilune pass epoch to en- sure the steered trajectory follows the reference baseline without deviating in phase. The resulting formulation has easily interpretable tuning parameters that may be obtained directly from mission requirements. The algorithm is demonstrated through Monte-Carlo simulations on the Gateway’s Near Rectilinear Halo Orbit (NRHO) in the full-ephemeris dynamics with realistic error models.
+        We develop a model predictive control (MPC) policy for station-keeping (SK) on a Near-Rectilinear Halo Orbit (NRHO). The proposed policy achieves full-state tracking of a reference NRHO via a two-maneuver control horizon placed one revolution apart. Our method abides by the typical mission requirement that at most one maneuver is used for SK during each NRHO revolution. Simultaneously, the policy has sufficient controllability for full-state tracking, making it immune to phase deviation issues in the along-track direction of the reference NRHO, a common drawback of existing SK methods with a single maneuver per revolution. We report numerical simulations with a navigation filter to demonstrate the MPC’s performance with output feedback. Our approach successfully maintains the spacecraft’s motion in the vicinity of the reference in both space and phase, with tighter tracking than state-of-the-art SK methods and comparable delta-V performance.
         <br><br>
-        **Related publication:** Y. Shimane, K. Ho, and A. Weiss “Optimization-Based Phase-Constrained Station-Keeping Control on Libration Point Orbit,” in AAS/AIAA Astrodynamics Specialist Conference, 2024. Available: [https://www.merl.com/publications/docs/TR2024-109.pdf](https://www.merl.com/publications/docs/TR2024-109.pdf)
+        **Related publication:** Y. Shimane, S. Di Cairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” 2025, [Online]. Available: [http://arxiv.org/abs/2502.05013](http://arxiv.org/abs/2502.05013)
     '
 
   - image_path: '../images/cam_opnav_14days0001-2016_compressed.gif'
