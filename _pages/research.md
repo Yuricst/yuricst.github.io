@@ -29,7 +29,7 @@ feature_row_logistics:
     excerpt: '
     This work formulates a novel time-expanded p-Median problem to design space-based observer constellations for Cislunar Space Situational Awareness (CSSA). We also derive a Lagrangean relaxation-based algorithm to rapidly obtain near-optimal solutions. 
     <br><br>
-    **Related publication:** Y. Shimane, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
+    **Related publication:** Y. Shimane, K. Tomita, and K. Ho, “Cislunar Space Situational Awareness Constellation Design and Planning with Facility Location Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
     '
     url: /research/TEpMP_ssa/
     btn_label: "Read More"

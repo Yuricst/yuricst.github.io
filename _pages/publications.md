@@ -17,6 +17,8 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## Journal Publications
 
+- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Space Situational Awareness Constellation Design and Planning with Facility Location Problem,” J. Spacecr. Rockets, accepted. ([arxiv](https://arxiv.org/abs/2408.06238))
+
 - D. Izzo et al., “Asteroid mining: ACT&Friends’ results for the GTOC12 problem,” Astrodynamics, vol. 9, no. 1, pp. 19–40, Feb. 2025, doi: [10.1007/s42064-024-0204-x](https://link.springer.com/article/10.1007/s42064-024-0204-x).
 
 - **Y. Shimane**, S. Di Cairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” IEEE Trans. Control Syst. Technol. (under review; arxiv: [http://arxiv.org/abs/2502.05013](http://arxiv.org/abs/2502.05013))
@@ -114,7 +116,7 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 - **Y. Shimane**, S. Di Cairano, K. Ho, and A. Weiss, “Output-Feedback Full-State Targeting Model Predictive Control for Station-Keeping on Near-Rectilinear Halo Orbits,” 2025, [Online]. Available: [http://arxiv.org/abs/2502.05013](http://arxiv.org/abs/2502.05013)
 
-- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Constellation Design for Space Situational Awareness with Time-Expanded p-Median Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
+- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Space Situational Awareness Constellation Design and Planning with Facility Location Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
 
 - K. Ho, **Y. Shimane**, and M. Isaji, “Generalizing Space Logistics Network Optimization with Integrated Machine Learning and Mathematical Programming,” arXiv, Apr. 2024, [Online]. Available: [http://arxiv.org/abs/2404.18770](http://arxiv.org/abs/2404.18770)
 
