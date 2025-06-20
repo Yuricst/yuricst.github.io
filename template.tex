@@ -1,0 +1,75 @@
+% !TeX program = pdflatex
+\documentclass[12pt]{article}
+
+% Required packages
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{multicol}
+\usepackage{titlesec}
+\usepackage{hyperref}
+
+% Page geometry
+\geometry{
+    a4paper,
+    margin=1in
+}
+
+% Title formatting
+\titleformat{\section}
+    {\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titlespacing*{\section}{0pt}{12pt}{12pt}
+
+% Custom commands
+\newcommand{\question}[1]{\item #1}
+\newcommand{\subquestion}[1]{\item #1}
+
+% Document settings
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{1em}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{Assignment Title}
+    
+    \vspace{0.5em}
+    \normalsize\textit{Your Name}
+    
+    \vspace{0.5em}
+    \normalsize\textit{Date}
+\end{center}
+
+\section*{Instructions}
+\begin{itemize}
+    \item Read each question carefully
+    \item Show all your work
+    \item Write clearly and legibly
+    \item Use appropriate notation
+\end{itemize}
+
+\section*{Questions}
+\begin{enumerate}
+    \question{Question 1}
+    \begin{enumerate}
+        \subquestion{Subquestion a}
+        \subquestion{Subquestion b}
+    \end{enumerate}
+    
+    \question{Question 2}
+    \begin{enumerate}
+        \subquestion{Subquestion a}
+        \subquestion{Subquestion b}
+    \end{enumerate}
+\end{enumerate}
+
+\section*{Bonus Questions}
+\begin{enumerate}
+    \question{Bonus Question 1}
+    \question{Bonus Question 2}
+\end{enumerate}
+
+\end{document} 

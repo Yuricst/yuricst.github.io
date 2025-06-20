@@ -17,7 +17,7 @@ You can also find my articles on my [ResearchGate](https://www.researchgate.net/
 
 ## Journal Publications
 
-- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Space Situational Awareness Constellation Design and Planning with Facility Location Problem,” J. Spacecr. Rockets, accepted. ([arxiv](https://arxiv.org/abs/2408.06238))
+- **Y. Shimane**, K. Tomita, and K. Ho, “Cislunar Space Situational Awareness Constellation Design and Planning with Facility Location Problem,” J. Spacecr. Rockets, pp. 1–23, Jun. 2025, doi: [10.2514/1.A36361](https://arc.aiaa.org/doi/10.2514/1.A36361).
 
 - D. Izzo et al., “Asteroid mining: ACT&Friends’ results for the GTOC12 problem,” Astrodynamics, vol. 9, no. 1, pp. 19–40, Feb. 2025, doi: [10.1007/s42064-024-0204-x](https://link.springer.com/article/10.1007/s42064-024-0204-x).
 

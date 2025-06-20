@@ -25,11 +25,11 @@ feature_row_logistics:
 
   - image_path: '../images/cflp_pmedian_sda.gif'
     alt: "pmediansda"
-    title: "Time-Expanded p-Median Problem for Cislunar Space Situational Awareness"
+    title: "Cislunar Space Situational Awareness Constellation Design and Planning with Facility Location Problem"
     excerpt: '
     This work formulates a novel time-expanded p-Median problem to design space-based observer constellations for Cislunar Space Situational Awareness (CSSA). We also derive a Lagrangean relaxation-based algorithm to rapidly obtain near-optimal solutions. 
     <br><br>
-    **Related publication:** Y. Shimane, K. Tomita, and K. Ho, “Cislunar Space Situational Awareness Constellation Design and Planning with Facility Location Problem,” 2024, [Online]. Available: [http://arxiv.org/abs/2408.06238](http://arxiv.org/abs/2408.06238)
+    **Related publication:** Y. Shimane, K. Tomita, and K. Ho, “Cislunar Space Situational Awareness Constellation Design and Planning with Facility Location Problem,” J. Spacecr. Rockets, pp. 1–23, Jun. 2025, doi: [10.2514/1.A36361](https://arc.aiaa.org/doi/10.2514/1.A36361)
     '
     url: /research/TEpMP_ssa/
     btn_label: "Read More"
